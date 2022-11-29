@@ -8,7 +8,9 @@ variational U-net : [![Open In Colab](https://colab.research.google.com/assets/c
 
 We first reverse engineer the retinal encoding process (reconstruct movie clips from their corresponding retinal activity)
 ![alt text](https://github.com/sepalmer/VU-net/blob/main/fish_truthvspred.gif)
+
 ![alt text](https://github.com/sepalmer/VU-net/blob/main/leaf_truthvspred.gif)
+
 ![alt text](https://github.com/sepalmer/VU-net/blob/main/water_truthvspred.gif)
 
 We found intermediate emerging background and motion separation learned by the U-net: 
