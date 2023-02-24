@@ -2,7 +2,7 @@
 code repository for NeurIPS 2022 paper: Learning low-dimensional generalizable natural features from retina using a U-net
 Please cite as: 
 
-@inproceedings{wang2022learning,title={Learning low-dimensional generalizable natural features from retina using a U-net},author={Siwei Wang and Benjamin Hoshal and Elizabeth A de Laittre and Olivier Marre and Michael Berry and Stephanie Palmer},booktitle={Advances in Neural Information Processing Systems},editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},year={2022},url={https://openreview.net/forum?id=bdfJCeWDKUB}}
+@inproceedings{wang2022learning,title={Learning low-dimensional generalizable natural features from retina using a U-net},author={Siwei Wang and Benjamin Hoshal and Elizabeth A de Laittre and Olivier Marre and Michael Berry and Stephanie Palmer},booktitle={Advances in Neural Information Processing Systems},editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},year={2022},url={https://openreview.net/forum?id=bdfJCeWDKUB }}
 
 model definition: vunet_def.py
 
